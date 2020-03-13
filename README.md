@@ -25,9 +25,31 @@ Ver planificación de proyecto en [Trello](https://trello.com/b/Zw92UkDH/burger-
 
 Para poder ordenar nuestras ideas, utilizamos Figma para diseñar el prototipo de alta fidelidad. Incluímos los colores de Insert Coin y decidimos implementar estilos sencillos para la interfaz.
 
-Ver prototipo en [Figma]()
+Ver prototipo en [Figma](https://www.figma.com/proto/1aElh6kNeFWTEsVITfTWgA/Burger-queen?node-id=1%3A2&scaling=scale-down)
 
-## Testeo con Usuarios
+## Testeo con Usuarios 👥
+
+Testo 1:
+
+https://www.loom.com/share/b52f4cfc55d54ec597c0d2d7c5a45a05
+
+### Aspectos positivos:
+
+- La interfaz es divertida y se entiende la temática de la aplicación.
+
+- Se entiende sin problemas cómo volver al Home.
+
+- El sistema de menú se parece mucho al sistema que se utiliza en los restaurantes.
+
+### Aspectos a mejorar:
+
+- Alineación de las tarjetitas de cada item del menú.
+
+- Que el nombre del item aparezca en una sola línea.
+
+- Sería bueno incluir un espacio para especificar notas de la comanda (como que la hamburguesa no lleve cebolla o que el trago no tenga azúcar).
+
+De este testeo, integramos la mayor parte del feedback para mejorar nuestra interfaz.
 
 ## Lighthouse
 
